@@ -1,0 +1,3 @@
+I have created a tutorial on how to get started using OpenAI. 
+Please provide 5 example titles with a brief description as to 
+why it would be a good title. 
