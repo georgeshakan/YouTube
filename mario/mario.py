@@ -211,7 +211,7 @@ notes = [
     p,
     (E5_flat, 2),
     p,
-    (F5, 2),
+    (D5, 2),  # changed thanks to a comment from germainp
     p,
     (C5, 2),
     p,
